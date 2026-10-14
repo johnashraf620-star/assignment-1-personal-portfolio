@@ -1,0 +1,156 @@
+.parent{
+    background-color: #f3f6fa;
+}
+
+.myself{
+    background-color:#18487b;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    padding: 40px;
+}
+h2{
+    color: #18487b
+}
+
+
+.myself h1{
+    color: white;
+}
+.myself p{
+    color: rgb(176 226 255);
+}
+.myself a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #214368;
+}
+.about{
+    background-color: white;
+    width: 60%;
+    margin: 10px auto ; 
+    padding: 40px;
+    border-radius: 10px ;
+}
+.about span{
+    color: #0a57aa;
+}
+
+.about .personal-photo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.about .personal-photo{
+    width: 20%;
+    float: left;
+}
+.about .mygithub{
+    width: 80%;
+    float:left;
+}
+.clear{
+    clear: both;
+}
+
+.about .mygithub a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #0a57aa;
+}
+
+.skills{
+    width: 60%;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+.skills .card{
+    background-color: #ffffff;
+    width: 25%;
+    margin: auto;
+    float: left;
+    border: 1px solid lightslategrey;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+    
+}
+.skills h3{
+    color:#0a57aa
+}
+
+.experience{
+    width: 60%;
+    background-color: #ffffff;
+    margin: auto;
+    padding: 40px;
+    border-radius: 20px; ;
+}
+
+.experience img{
+    width: 15%;
+    border: 2px solid lightslategray;
+    border-radius: 10px;
+    float: left;
+}
+.experience .company{
+    color:#0a57aa;
+    margin: 0px;
+    
+}
+
+.junior{
+    margin: 5px;
+    background-color: #f8fafc;
+    padding: 10px;
+    
+    border-left: 5px solid #214368 ;
+    border-right:1px solid #e2e8f0;
+    border-top:1px solid #e2e8f0;
+    border-bottom:1px solid #e2e8f0;
+    border-radius: 10px;
+}
+.contact{
+    width: 60%;
+    background-color: #18487b;
+    margin:10px auto;
+    padding: 40px;
+    border-radius: 20px;
+
+}
+.contact h2 {
+    color: #ffffff;
+}
+.contact p {
+    color: #ffffff;
+}
+
+.contact a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #0a57aa;
+}
+.rights{
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    background-color: #071a35;
+    text-align: center;
+    border-radius: 20px;
+}
+.rights p span{
+    color: #7dccff;
+}
+.rights p{
+    color: #ffffff; 
+}
